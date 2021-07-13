@@ -1,0 +1,2 @@
+pyecharts==0.5.11
+pyecharts_snapshot
